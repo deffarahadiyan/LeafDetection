@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DATALENGKAP</folder>
+	<filename>IMG_20201101_174638_175.jpg</filename>
+	<path>D:\labeling\DATALENGKAP\IMG_20201101_174638_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3258</width>
+		<height>3258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>79</ymin>
+			<xmax>2629</xmax>
+			<ymax>2744</ymax>
+		</bndbox>
+	</object>
+</annotation>
